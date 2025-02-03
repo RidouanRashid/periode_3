@@ -1,6 +1,6 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #ffebee;
+    font-family:  math 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: pink;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -17,7 +17,7 @@ body {
   }
   
   h1 {
-    color: #e91e63;
+    color: red;
   }
   
   input {
